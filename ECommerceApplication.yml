@@ -41,3 +41,5 @@ project:
 logging:
   level:
     org.springframework.security: DEBUG
+
+jwt_secret: cl$ksc^nas%lkdm!cz@xclk#as&dmka;s28*392da%jskd#n9827@3498%
